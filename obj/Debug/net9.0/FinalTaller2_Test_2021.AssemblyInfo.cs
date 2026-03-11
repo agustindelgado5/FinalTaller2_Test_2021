@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinalTaller2_Test_2021")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71bd295231e9d07e25f4efcc700bb43076e3ff21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+143b4db904c27444d1ab2186ef62a52e448a2d58")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinalTaller2_Test_2021")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinalTaller2_Test_2021")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
